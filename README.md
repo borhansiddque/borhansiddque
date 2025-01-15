@@ -6,7 +6,7 @@ I'm a passionate software developer with a keen interest in web development, dat
 - 🌱 I’m currently learning advanced React and TypeScript.
 - 👯 I’m looking to collaborate on open-source projects and innovative web applications.
 - 💬 Ask me about JavaScript, Python, and machine learning.
-- 📫 How to reach me: [borhansiddque@gmail.com](mailto:borhansiddque19@gmail.com)
+- 📫 How to reach me: [borhansiddque19@gmail.com](mailto:borhansiddque19@gmail.com)
 - ⚡ Fun fact: I enjoy playing chess and solving puzzles in my free time.
 
 ## Skills
