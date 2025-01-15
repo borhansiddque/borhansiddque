@@ -1,6 +1,6 @@
 # Hi there, I'm Borhan Siddque! 👋
 
-![Profile Image]([https://via.placeholder.com/150](https://avatars.githubusercontent.com/u/78412683?v=4)) <!-- Replace with your profile image URL -->
+[https://via.placeholder.com/150](https://avatars.githubusercontent.com/u/78412683?v=4) <!-- Replace with your profile image URL -->
 
 Welcome to my GitHub profile! I'm a passionate developer interested in building innovative solutions and contributing to open-source projects.
 
