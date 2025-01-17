@@ -29,7 +29,7 @@ Here are some of the projects I've worked on:
 Feel free to reach out to me:
 
 - **Email:** borhansiddque19@gmail.com
-- **LinkedIn:** [linkedin.com/in/borhansiddque](https://www.linkedin.com/in/borhansiddque)
-- **Twitter:** [@borhansiddque](https://twitter.com/borhansiddque)
+- **Instagram:** [https://www.instagram.com/borhan_siddque/](https://www.instagram.com/borhan_siddque/)
+- **Facebook:** [https://www.facebook.com/borhan.siddque.19/](https://www.facebook.com/borhan.siddque.19/)
 
 Thanks for visiting my profile! Have a great day! 😊
