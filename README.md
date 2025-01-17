@@ -20,9 +20,8 @@ Welcome to my GitHub profile! I'm a passionate developer interested in building 
 
 Here are some of the projects I've worked on:
 
-- [Project 1](https://github.com/borhansiddque/project1): Brief description of project 1.
-- [Project 2](https://github.com/borhansiddque/project2): Brief description of project 2.
-- [Project 3](https://github.com/borhansiddque/project3): Brief description of project 3.
+- [Project 1](https://borhansiddque.github.io/mask-store/): Mask Store (HTML, CSS)
+- [Project 2](https://borhansiddque.github.io/InfluencerM5/): Influencer M5 (HTML, CSS)
 
 ## 📫 Contact Me
 
