@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a passionate developer interested in building 
 - **Web Development:** HTML, CSS, JavaScript
 - **Tools:** Git, VS Code
 
-## 📂 Project
+## 📂 Projects
 
 Here are some of the projects I've worked on:
 
