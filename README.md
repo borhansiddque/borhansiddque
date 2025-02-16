@@ -22,6 +22,7 @@ Here are some of the projects I've worked on:
 
 - [Project 1](https://borhansiddque.github.io/mask-store/): Mask Store (HTML, CSS)
 - [Project 2](https://borhansiddque.github.io/InfluencerM5/): Influencer M5 (HTML, CSS)
+- [Project 3 (Assignment 03)](https://borhansiddque.github.io/assignment-3-natures-platter/): Natures Platter (HTML, TailwindCSS)
 
 ## 📫 Contact Me
 
