@@ -7,7 +7,7 @@ Welcome to my GitHub Profile! I'm a passionate developer interested in building 
 ## 🚀 About Me
 
 - 💻 I love coding and solving problems.
-- 📚 I'm always eager to learn new technologies and improve my .
+- 📚 I'm always eager to learn new technologies and improve my skills.
 - 🌐 I enjoy working on web development, data science, and machine learning projects.
 
 ## 🛠️ Skills
