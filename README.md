@@ -1,4 +1,4 @@
-# Hi there, I'm Borhan Siddque (Risan)! 
+# Hi there, I'm Borhan Siddque (Risan)! 👋
 
 ![Profile Image](https://avatars.githubusercontent.com/u/78412683) <!-- Replace with your profile image URL -->
 
