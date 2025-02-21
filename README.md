@@ -1,6 +1,6 @@
 # Hi there, I'm Borhan Siddque (Risan)! 👋
 
-![Profile Image](https://avatars.githubusercontent.com/u/78412683) <!-- Replace with your profile image URL -->
+![Profile Image](https://avatars.githubusercontent.com/u/78412683)
 
 Welcome to my GitHub Profile! I'm a passionate developer interested in building innovative solutions and contributing to open-source projects.
 
