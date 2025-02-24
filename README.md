@@ -15,7 +15,7 @@ Welcome to my GitHub Profile! I'm a passionate developer interested in building 
 - **Programming Languages:** HTML5, CSS3, JavaScript.
 - **Web Development:** HTML, CSS, Tailwind CSS, JavaScript.
 - **Tools:** Git, VS Code.
-- **UI Design:** Figma, Pixso.
+
 
 ## 📂 Projects
 
