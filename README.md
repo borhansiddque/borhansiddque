@@ -34,5 +34,6 @@ Feel free to reach out to me:
 - **Instagram:** [https://www.instagram.com/borhan_siddque/](https://www.instagram.com/borhan_siddque/)
 - **Facebook:** [https://www.facebook.com/borhan.siddque.19/](https://www.facebook.com/borhan.siddque.19/)
 - **LinkedIn:** [https://www.linkedin.com/in/borhan-siddque-117b121a9/](https://www.linkedin.com/in/borhan-siddque-117b121a9/)
+- **Github:** [https://github.com/borhansiddque/](https://github.com/borhansiddque)
 
 Thanks for visiting my profile! Have a great day! 😊
