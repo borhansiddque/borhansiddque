@@ -17,7 +17,7 @@ Welcome to my GitHub Profile! I'm a passionate developer interested in building 
 - **Tools:** Git, VS Code.
 - **UI Design:** Figma, Pixso.
 
-## 📂 Projects
+## 📂 Project
 
 Here are some of the projects I've worked on:
 - [Project 1](https://borhansiddque.github.io/mask-store/): Mask Store (HTML, CSS)
