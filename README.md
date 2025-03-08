@@ -10,7 +10,7 @@ Welcome to my GitHub Profile! I'm a passionate developer interested in building 
 - 📚 I'm always eager to learn new technologies and improve my skills.
 - 🌐 I enjoy working on web development, data science, and machine learning projects.
 
-## 🛠️ Skills
+## 🛠️ Skill
 
 - **Programming Languages:** HTML5, CSS3, JavaScript(ES6).
 - **Web Development:** HTML, CSS, Tailwind CSS (Daisy UI), JavaScript.
