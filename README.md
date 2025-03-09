@@ -4,8 +4,6 @@
 
 Welcome to my GitHub Profile! I'm a passionate developer interested in building innovative solutions and contributing to open-source projects.
 
-![Profile Views](https://komarev.com/ghpvc/?username=borhansiddque&color=green)
-
 ## 🚀 About Me
 
 - 💻 I love coding and solving problems.
@@ -37,5 +35,7 @@ Feel free to reach out to me:
 - **Facebook:** [https://www.facebook.com/borhan.siddque.19/](https://www.facebook.com/borhan.siddque.19/)
 - **LinkedIn:** [https://www.linkedin.com/in/borhan-siddque-117b121a9/](https://www.linkedin.com/in/borhan-siddque-117b121a9/)
 - **Github:** [https://github.com/borhansiddque/](https://github.com/borhansiddque)
+
+![Profile Views](https://komarev.com/ghpvc/?username=borhansiddque&color=green)
 
 Thanks for visiting my profile! Have a great day! 😊
