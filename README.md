@@ -4,7 +4,7 @@
 
 Welcome to my GitHub Profile! I'm a passionate developer interested in building innovative solutions and contributing to open-source projects.
 
-![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blue)
+![Profile Views](https://komarev.com/ghpvc/borhansiddque)
 
 ## 🚀 About Me
 
