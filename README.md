@@ -36,7 +36,6 @@ Feel free to reach out to me:
 - **LinkedIn:** [https://www.linkedin.com/in/borhan-siddque-117b121a9/](https://www.linkedin.com/in/borhan-siddque-117b121a9/)
 - **Github:** [https://github.com/borhansiddque/](https://github.com/borhansiddque)
 
-![Profile Views](https://komarev.com/ghpvc/?username=borhansiddque&color=green)
-![Profile Views](https://shields.io/badge/dynamic/json?color=blue&label=Profile%20Views&query=count&url=https://api.countapi.xyz/hit/borhansiddque)
+![Profile Views](https://komarev.com/ghpvc/?username=borhansiddque&color=red)
 
 Thanks for visiting my profile! Have a great day! 😊
