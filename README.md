@@ -1,4 +1,4 @@
-# Hi there, I'm Borhan Siddque (Risan)! 👋
+# Hi there, I'm Borhan Siddque ()! 👋
 
 Welcome to my GitHub Profile! I'm a passionate developer interested in building innovative solutions and contributing to open-source projects.
 
