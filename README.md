@@ -34,8 +34,10 @@ Feel free to reach out to me:
 - **LinkedIn:** [https://www.linkedin.com/in/borhan-siddque-117b121a9/](https://www.linkedin.com/in/borhan-siddque-117b121a9/)
 - **Github:** [https://github.com/borhansiddque/](https://github.com/borhansiddque)
 
-<br><br>
+<br><be>
 
-![Profile Views](https://komarev.com/ghpvc/?username=borhansiddque&color=red)
+<div style="text-align:center">
+  ![Profile Views](https://komarev.com/ghpvc/?username=borhansiddque&color=red)
 
-Thanks for visiting my profile! Have a great day! 😊
+  Thanks for visiting my profile! Have a great day! 😊
+</div>
