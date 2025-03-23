@@ -36,6 +36,6 @@ Feel free to reach out to me:
 
 <br>
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=borhansiddque&color=red)
+
 
   Thanks for visiting my profile! Have a great day! 😊
