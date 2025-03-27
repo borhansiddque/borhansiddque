@@ -3,7 +3,7 @@
 [//]: # (Add Banner Here)
 
 
-Welcome to my GitHub Profile! I'm a passionate developer interested in building innovative solutions and contributing to open-source projects.
+<h4>Welcome to my GitHub Profile! I'm a passionate developer interested in building innovative solutions and contributing to open-source projects.</h4>
 
 ## 🚀 About Me
 
