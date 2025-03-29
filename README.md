@@ -1,4 +1,4 @@
-# <h1 align="center">Hi there, Im Borhan Siddque (Risan)! 👋</h1>
+# <h1 align="center">Hi there, I'm Borhan Siddque (Risan)! 👋</h1>
 
 [//]: # (Add Banner Here)
 
