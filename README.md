@@ -46,6 +46,12 @@ Feel free to reach out to me:
 - **Facebook:** [https://www.facebook.com/borhan.siddque.19/](https://www.facebook.com/borhan.siddque.19/)
 - **LinkedIn:** [https://www.linkedin.com/in/borhan-siddque-117b121a9/](https://www.linkedin.com/in/borhan-siddque-117b121a9/)
 - **Portfolio:** [https://borhan-siddque.netlify.app/](https://borhan-siddque.netlify.app/)
+- 
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/borhan-siddque-117b121a9/)
+[![Facebook](https://img.shields.io/badge/facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/borhan.siddque.19/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:borhansiddque19@gmail.com)
 
 <br>
 
