@@ -27,7 +27,7 @@ I'm a passionate MERN Stack Developer who enjoys building full-stack web applica
 ## 🛠 Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,tailwind,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,tailwind,git,github,vscode,postman,npm,daisyui,figma,react-hook-form" />
 </p>
 
 ## 🌐 Connect with Me
