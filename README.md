@@ -1,5 +1,5 @@
 [//]: # (Banner Here)
-<img src="https://github.com/borhansiddque/borhansiddque/blob/main/github_cover_image.png" />
+<img src="https://raw.githubusercontent.com/borhansiddque/borhansiddque/refs/heads/main/github_cover_image.png" />
 
 ## 🚀 About Me
 I'm a passionate MERN Stack Developer who enjoys building full-stack web applications that are fast, responsive, and scalable.
