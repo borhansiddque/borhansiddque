@@ -40,18 +40,14 @@ Here are some of the projects I've worked on:
 - [Project 1](https://borhansiddque.github.io/mask-store/): Mask Store (HTML, CSS)
 - [Project 2](https://borhansiddque.github.io/InfluencerM5/): Influencer M5 (HTML, CSS)
 - [Project 3 (Assignment 03)](https://borhansiddque.github.io/assignment-3-natures-platter/): Natures Platter (HTML, TailwindCSS)
-- [Project 4 (My Portfolio)](https://borhansiddque.github.io/portfolio-website-illustration/): Borhan Siddque Portfolio (HTML, RAW CSS)
-
 
 ## 📫 Contact Me
 
 Feel free to reach out to me:
-
 - **Email:** borhansiddque19@gmail.com
-- **Instagram:** [https://www.instagram.com/borhan_siddque/](https://www.instagram.com/borhan_siddque/)
 - **Facebook:** [https://www.facebook.com/borhan.siddque.19/](https://www.facebook.com/borhan.siddque.19/)
 - **LinkedIn:** [https://www.linkedin.com/in/borhan-siddque-117b121a9/](https://www.linkedin.com/in/borhan-siddque-117b121a9/)
-- **Github:** [https://github.com/borhansiddque/](https://github.com/borhansiddque)
+- **Portfolio:** [https://borhan-siddque.netlify.app/](https://borhan-siddque.netlify.app/)
 
 <br>
 
