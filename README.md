@@ -5,8 +5,8 @@
 I'm a dedicated developer focused on creating modern, user-friendly interfaces with React and building efficient backend APIs using the MERN stack.
 
 - 🔭 I’m currently working on a parcel delivery web app.
-- 🌱 I’m exploring Next.js and TypeScript.
-- 🎯 My goal is to become a professional full stack developer.
+- 🌱 I'm Currently Exploring TypeScript to level up my skills.
+- 🎯 My goal is to become a professional full-stack developer.
 - 🧠 I'm improving my skills by building real-world projects.
 
 # 💻 Tech Stack:
