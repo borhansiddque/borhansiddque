@@ -1,4 +1,4 @@
-# <h1 align="center">Hi there, I'm Borhan Siddque (Risan)! 👋</h1>
+<img src="https://github.com/borhansiddque/borhansiddque/blob/main/github_cover_image.png" />
 
 [//]: # (Add Banner Here)
 
