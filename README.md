@@ -32,21 +32,11 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-## 📂 Projects
-
-Here are some of the projects I've worked on:
-- [Project 1](https://borhansiddque.github.io/mask-store/): Mask Store (HTML, CSS)
-- [Project 2](https://borhansiddque.github.io/InfluencerM5/): Influencer M5 (HTML, CSS)
-- [Project 3 (Assignment 03)](https://borhansiddque.github.io/assignment-3-natures-platter/): Natures Platter (HTML, TailwindCSS)
-
 ## 📫 Contact Me
 
-Feel free to reach out to me:
 - **Email:** borhansiddque19@gmail.com
-- **Facebook:** [https://www.facebook.com/borhan.siddque.19/](https://www.facebook.com/borhan.siddque.19/)
-- **LinkedIn:** [https://www.linkedin.com/in/borhan-siddque-117b121a9/](https://www.linkedin.com/in/borhan-siddque-117b121a9/)
 - **Portfolio:** [https://borhan-siddque.netlify.app/](https://borhan-siddque.netlify.app/)
-- 
+
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/borhan-siddque-117b121a9/)
