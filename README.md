@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/borhansiddque/borhansiddque/refs/heads/main/github_cover_image.png" />
 
 ## 🚀 About Me
-I'm a passionate MERN Stack Developer who enjoys building full-stack web applications that are fast, responsive, and scalable.
+I'm a dedicated developer focused on creating modern, user-friendly interfaces with React and building efficient backend APIs using the MERN stack.
 
 - 🔭 I’m currently working on a parcel delivery web app.
 - 🌱 I’m exploring Next.js and TypeScript.
