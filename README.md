@@ -1,8 +1,5 @@
+[//]: # (Banner Here)
 <img src="https://github.com/borhansiddque/borhansiddque/blob/main/github_cover_image.png" />
-
-[//]: # (Add Banner Here)
-
-<h4>Welcome to my GitHub Profile! I'm a passionate developer interested in building innovative solutions and contributing to open-source projects.</h4>
 
 ## 🚀 About Me
 
