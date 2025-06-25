@@ -53,7 +53,7 @@ I'm a dedicated developer focused on creating modern, user-friendly interfaces w
 
 <br>
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/borhansiddque/borhansiddque/output/snake.svg" alt="Snake animation" />
 
 Thanks for visiting my profile! Have a great day! 😊
   
