@@ -53,6 +53,8 @@ I'm a dedicated developer focused on creating modern, user-friendly interfaces w
 
 <br>
 
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 Thanks for visiting my profile! Have a great day! 😊
   
 ![Profile Views](https://komarev.com/ghpvc/?username=borhansiddque&color=red)
