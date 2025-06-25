@@ -47,6 +47,9 @@ I'm a dedicated developer focused on creating modern, user-friendly interfaces w
   <img src="https://github-readme-stats.vercel.app/api?username=borhansiddque&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=borhansiddque&layout=compact&theme=tokyonight" />
 </p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=borhansiddque&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph" />
+</div>
 
 <br>
 
